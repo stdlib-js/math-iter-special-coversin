@@ -1,0 +1,44 @@
+{
+  "name": "@stdlib/math-iter-special-coversin",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the coversed sine for each iterated value.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-coversin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "coversin",
+    "coversine",
+    "versed sine",
+    "coversed",
+    "cosinus versus",
+    "coversinus",
+    "covers",
+    "cosiv",
+    "cvs",
+    "versed",
+    "sine",
+    "sin",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
